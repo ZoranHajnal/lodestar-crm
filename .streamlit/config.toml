@@ -1,0 +1,7 @@
+[theme]
+# ── Base colors ───────────────────────────────────────────────────────────────
+primaryColor = "#FFC72C"           # Lodestar’s gold accent
+backgroundColor = "#FFFFFF"        # White page background
+secondaryBackgroundColor = "#F0F4F8" # Very light gray for panels
+textColor = "#002F6C"              # Lodestar’s dark navy text
+font = "sans serif"                # We’ll override to Montserrat via CSS below
